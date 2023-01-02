@@ -1,0 +1,56 @@
+.link{
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+  	transition: ease-out 100ms
+}
+.link:hover{
+	text-decoration: none;
+	font-weight: bold;
+	border: 2px solid;
+	color: black;
+	transition: ease-out 80ms
+}
+.gallery-card img{
+	border: none !important;
+	border-radius: 50px;
+}
+.card{
+	border: none;
+}
+.sign-link{
+	width: 50px;
+}
+.person-tab{
+	width: 200px;
+	float: left;
+	border-radius: 100%;
+}
+.packets-head{
+	background-color: #c4c2c2;  
+	border-radius: 50px; 
+}
+.packets-body{
+	background-color: #E7E7E7; 
+	border-radius: 50px;
+}
+.packets-li{
+	text-align: left;
+	list-style-type:none;
+}
+.packets-button{
+	border-color: #12DF00; 
+	border-radius: 50px; 
+	background-color: #12DF00; 
+	color: #fff
+}
+.packets-button:hover{
+	background-color:#11ad03;
+}
+.user-active{
+	text-decoration: none; 
+	text-transform: uppercase;
+}
+.form{
+	text-align: left;
+}
